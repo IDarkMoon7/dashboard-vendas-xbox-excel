@@ -3,7 +3,7 @@
 Projeto desenvolvido como parte do desafio da **DIO (Digital Innovation One)**. O objetivo foi criar um painel interativo para análise de vendas de consoles e jogos.
 
 ## 📊 Visualização do Projeto
-![Dashboard Preview](dashboard-xbox-preview.png)
+![Dashboard Preview](dashboard-xbox-preview.png.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Excel:** Tabelas Dinâmicas, Segmentação de Dados, Gráficos Personalizados.
